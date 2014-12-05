@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<true/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>4A'sTechnology.md</string>
+		</array>
+		<array>
+			<string>SLIDES.md</string>
+		</array>
+		<array>
+			<string>Techtalk2014-B2Bversion.md</string>
+		</array>
+		<array>
+			<string>Techtalk2014-B2BversionSLIDES2.md</string>
+		</array>
+		<array>
+			<string>TEST-TechTalk.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
