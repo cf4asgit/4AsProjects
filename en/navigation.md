@@ -11,9 +11,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[PageList](PageList.md)
-[ToDo](pages/todo/ToDos_END_2014.md)
+[How To](pages/howto.md)
+[PageList](/pages/pageslinks.md)
+[ToDo](pages/todo/ToDos_2014_2015.md)
 [Download](pages/download.md)
 
 [Website Strategy]()
