@@ -1,3 +1,5 @@
+# Links
+
 [4AsNotes](4AsNotes)
 [4AsOperations](4AsOperations)
 [4AsProjects](4AsProjects)
@@ -36,6 +38,9 @@
 [todo](todo)
 [uploads](uploads)
 [wearables](wearables)
+
+
+
 [./4AsNotes:](./4AsNotes:)
 [2014 4AsDigital-dept-constituents.md](2014 4AsDigital-dept-constituents.md)
 [2014 4AsDigital-dept-members.md](2014 4AsDigital-dept-members.md)
@@ -50,7 +55,6 @@
 [Marc22Sep2014i.md](Marc22Sep2014i.md)
 [Marci Integrated initiatives.md](Marci Integrated initiatives.md)
 [MarkAvnet.md](MarkAvnet.md)
-[Notes.marked](Notes.marked)
 [PlatinumPartnerships.md](PlatinumPartnerships.md)
 [ReadMeNotes.taskpaper](ReadMeNotes.taskpaper)
 [RepresentativesPOV.txt](RepresentativesPOV.txt)
@@ -69,12 +73,18 @@
 [nycmedialab2.md](nycmedialab2.md)
 [portland_design.md](portland_design.md)
 [wordpress 4.md](wordpress 4.md)
+
+
+
 [./4AsOperations:](./4AsOperations:)
 [4AsOperations.marked](4AsOperations.marked)
 [DigitalSkillsInventoryProjectBrief.txt](DigitalSkillsInventoryProjectBrief.txt)
 [LBMeeting.md](LBMeeting.md)
 [Video Strategy.md](Video Strategy.md)
 [improve_netforum.md](improve_netforum.md)
+
+
+
 [./4AsProjects:](./4AsProjects:)
 [4AsProjects.marked](4AsProjects.marked)
 [AMC-Madmen-LastSeason.md](AMC-Madmen-LastSeason.md)
@@ -84,52 +94,29 @@
 [Google Ecommerce script.md](Google Ecommerce script.md)
 [RegistrationProject.md](RegistrationProject.md)
 [issues-topics-knowledgedomains.md](issues-topics-knowledgedomains.md)
+
+ 
 [./4AsStrategy:](./4AsStrategy:)
 [4AsStrategy.marked](4AsStrategy.marked)
 [4AsTechconsulting](4AsTechconsulting)
 [Amazon.md](Amazon.md)
 [KC 01 Dec 2014.md](KC 01 Dec 2014.md)
 [PR-Running-Notes.md](PR-Running-Notes.md)
+
 [./4AsStrategy/4AsTechconsulting:](./4AsStrategy/4AsTechconsulting:)
 [22Squared](22Squared)
 [4AsTechconsulting.marked](4AsTechconsulting.marked)
 [MunnRabot.md](MunnRabot.md)
-[untitled folder](untitled folder)
-[./4AsStrategy/4AsTechconsulting/22Squared:](./4AsStrategy/4AsTechconsulting/22Squared:)
-[060811_pm_ny.pdf](060811_pm_ny.pdf)
-[1. Meeting Notes - Structuring Agency Functions @ BSSP 3-4-14.xlsx](1. Meeting Notes - Structuring Agency Functions @ BSSP 3-4-14.xlsx)
-[1. Meeting Notes - Structuring Agency Functions @ McCann 4-23-14.xlsx](1. Meeting Notes - Structuring Agency Functions @ McCann 4-23-14.xlsx)
-[1. Structuring Agency Functions Meeting Notes BSSP.doc](1. Structuring Agency Functions Meeting Notes BSSP.doc)
-[1. Structuring Agency Functions Meeting Notes McCann.doc](1. Structuring Agency Functions Meeting Notes McCann.doc)
-[4As_22squared.FINAL.pdf](4As_22squared.FINAL.pdf)
-[AICPA - SOC 2.pdf](AICPA - SOC 2.pdf)
-[AICPA - SOC 2.webloc](AICPA - SOC 2.webloc)
-[Adobe Email Thread.docx](Adobe Email Thread.docx)
-[Agency 2020.pdf](Agency 2020.pdf)
-[Agency Best Practices - Project-Based Assignments.docx](Agency Best Practices - Project-Based Assignments.docx)
-[Data Security Sample Agency Policy 11 (1).doc](Data Security Sample Agency Policy 11 (1).doc)
-[DataSecutityMeetingNotes.enex](DataSecutityMeetingNotes.enex)
-[Deloitte Data Security Deck 2 25 14 (2).pdf](Deloitte Data Security Deck 2 25 14 (2).pdf)
-[DiSC Assessment.doc](DiSC Assessment.doc)
-[IE IT Staff Ratio 3-14.xlsx](IE IT Staff Ratio 3-14.xlsx)
-[IT Minutes-11-12.doc](IT Minutes-11-12.doc)
-[IT Minutes-6-10.doc](IT Minutes-6-10.doc)
-[MDC Client Confidentiality and Security Requirements Docs.docx](MDC Client Confidentiality and Security Requirements Docs.docx)
-[Managing Global_Virtual Account Teams 08.21.12.pdf](Managing Global_Virtual Account Teams 08.21.12.pdf)
-[Notes from 4As staff.markdown](Notes from 4As staff.markdown)
-[Outline_for_22Squared.md](Outline_for_22Squared.md)
-[PM Tools Final Rpt 12-13.docx](PM Tools Final Rpt 12-13.docx)
-[SOC Report Type 1 vs. Type 2 | SOC 1, 2, 3 Reporting Definitions | Assurance Concepts.pdf](SOC Report Type 1 vs. Type 2 | SOC 1, 2, 3 Reporting Definitions | Assurance Concepts.pdf)
-[Service Organization Controls - Wikipedia, the free encyclopedia.pdf](Service Organization Controls - Wikipedia, the free encyclopedia.pdf)
-[Should you buy a DAM system from your agency or integrator? | Real Story Group.pdf](Should you buy a DAM system from your agency or integrator? | Real Story Group.pdf)
-[Solutions | MediaBeacon.webloc](Solutions | MediaBeacon.webloc)
+
 [./4AsStrategy/4AsTechconsulting/untitled folder:](./4AsStrategy/4AsTechconsulting/untitled folder:)
 [MediaOcean.md](MediaOcean.md)
+
 [./CF:](./CF:)
 [CF-CDO.md](CF-CDO.md)
 [CF.marked](CF.marked)
 [CF4AsSig.md](CF4AsSig.md)
 [My Markdown Architecture.md](My Markdown Architecture.md)
+
 [./Ideas-Blog:](./Ideas-Blog:)
 [Common Namespaces project.md](Common Namespaces project.md)
 [Common Namespaces project.opml](Common Namespaces project.opml)
@@ -144,12 +131,14 @@
 [running_ideas (Foxpath DropBox's conflicted copy).md](running_ideas (Foxpath DropBox's conflicted copy).md)
 [running_ideas.md](running_ideas.md)
 [test file.md](test file.md)
+
 [./Internet of things:](./Internet of things:)
 [BlogPost.rtf.rtfd](BlogPost.rtf.rtfd)
 [Internet of things.marked](Internet of things.marked)
 [Note 3 févr. 2014.rtf](Note 3 févr. 2014.rtf)
 [internet of things concept map.md](internet of things concept map.md)
 [internetofthings.md](internetofthings.md)
+
 [./Internet of things/BlogPost.rtf.rtfd:](./Internet of things/BlogPost.rtf.rtfd:)
 [06ca38a2d35d9b49da95c68c48b653ee.jpeg](06ca38a2d35d9b49da95c68c48b653ee.jpeg)
 [122e1b4696e8ec9d4cb27f74d1a9d579.jpeg](122e1b4696e8ec9d4cb27f74d1a9d579.jpeg)
@@ -157,15 +146,19 @@
 [79d615c2174b8be293c788276fa0c1fb.jpeg](79d615c2174b8be293c788276fa0c1fb.jpeg)
 [TXT.rtf](TXT.rtf)
 [ca8f41ea344fba9520a2e5f7b23df2e5.png](ca8f41ea344fba9520a2e5f7b23df2e5.png)
+
 [./MarkDown:](./MarkDown:)
 [reference.md](reference.md)
+
 [./Meetings Correspondance:](./Meetings Correspondance:)
 [Correspondance.marked](Correspondance.marked)
 [Meetings Correspondance.marked](Meetings Correspondance.marked)
+
 [./Mobile App:](./Mobile App:)
 [Bizzabo Overview for Organizers.pdf - Dropbox.webloc](Bizzabo Overview for Organizers.pdf - Dropbox.webloc)
 [Mobile App Discussion.md](Mobile App Discussion.md)
 [Mobile App.marked](Mobile App.marked)
+
 [./NOTES:](./NOTES:)
 [4A's & VML Weekly Regroup  starts August 14, 2014 at 11:00AM.html](4A's & VML Weekly Regroup  starts August 14, 2014 at 11:00AM.html)
 [4A's Strategy Meeting starts July 29, 2014 at 01:00PM.html](4A's Strategy Meeting starts July 29, 2014 at 01:00PM.html)
@@ -187,71 +180,60 @@
 [dev javascript.md](dev javascript.md)
 [index.html](index.html)
 [unix-python.md](unix-python.md)
+
 [./NOTES/ARM Team participation.resources:](./NOTES/ARM Team participation.resources:)
 [4As member life cycle.oo3.zip](4As member life cycle.oo3.zip)
 [ARM Team participation.resources.marked](ARM Team participation.resources.marked)
+
 [./Research:](./Research:)
 [Research.marked](Research.marked)
 [energy use, energy markets the internet of things.agentSearch](energy use, energy markets the internet of things.agentSearch)
-[./Research/energy use, energy markets the internet of things.agentSearch:](./Research/energy use, energy markets the internet of things.agentSearch:)
-[Archived.storage](Archived.storage)
-[DEVONagent-1.daMeta](DEVONagent-1.daMeta)
-[DEVONagent-2.daMeta](DEVONagent-2.daMeta)
-[DEVONagent-3.daMeta](DEVONagent-3.daMeta)
-[DEVONagent-4.daMeta](DEVONagent-4.daMeta)
-[DEVONagent-5.daMeta](DEVONagent-5.daMeta)
-[DEVONagent-6.daMeta](DEVONagent-6.daMeta)
-[DEVONagent-7.daMeta](DEVONagent-7.daMeta)
-[DEVONagent-8.daMeta](DEVONagent-8.daMeta)
-[DEVONagent-9.daMeta](DEVONagent-9.daMeta)
-[Done.ulist](Done.ulist)
-[Log.plist](Log.plist)
-[Objects.slist](Objects.slist)
-[QuickLook](QuickLook)
-[Settings.plist](Settings.plist)
-[StopWords.plist](StopWords.plist)
-[./Research/energy use, energy markets the internet of things.agentSearch/QuickLook:](./Research/energy use, energy markets the internet of things.agentSearch/QuickLook:)
-[Preview.pdf](Preview.pdf)
-[./Scriv:](./Scriv:)
-[Draft](Draft)
-[Scriv.marked](Scriv.marked)
-[./Scriv/Draft:](./Scriv/Draft:)
-[1 # This is the Title -3-.rtf](1 # This is the Title -3-.rtf)
-[Draft.marked](Draft.marked)
+
+
+
 [./TO READ:](./TO READ:)
 [4As_Final_LowRes (1).pdf](4As_Final_LowRes (1).pdf)
 [DGC Proposal_4As_FINAL.pdf](DGC Proposal_4As_FINAL.pdf)
 [DGCcreds4As_final.pdf](DGCcreds4As_final.pdf)
 [PR Brief to Agencies_8-12-14.pdf](PR Brief to Agencies_8-12-14.pdf)
 [TO READ.marked](TO READ.marked)
+
 [./Templates:](./Templates:)
 [Templates.marked](Templates.marked)
 [Working Table.md](Working Table.md)
+
 [./Training Education:](./Training Education:)
 [Training Education.marked](Training Education.marked)
+
 [./VooDooPad:](./VooDooPad:)
 [Untitled.vpdoc](Untitled.vpdoc)
 [VooDooPad.marked](VooDooPad.marked)
+
 [./VooDooPad/Untitled.vpdoc:](./VooDooPad/Untitled.vpdoc:)
 [cache-b204a24b-f707-5316-8b83-5ee0aa5c8704](cache-b204a24b-f707-5316-8b83-5ee0aa5c8704)
 [pages](pages)
 [properties.plist](properties.plist)
 [storeinfo.plist](storeinfo.plist)
 [tags.plist](tags.plist)
+
 [./VooDooPad/Untitled.vpdoc/cache-b204a24b-f707-5316-8b83-5ee0aa5c8704:](./VooDooPad/Untitled.vpdoc/cache-b204a24b-f707-5316-8b83-5ee0aa5c8704:)
 [sk.index](sk.index)
 [store.vpsqlite](store.vpsqlite)
+
 [./VooDooPad/Untitled.vpdoc/pages:](./VooDooPad/Untitled.vpdoc/pages:)
 [b](b)
 [c](c)
+
 [./VooDooPad/Untitled.vpdoc/pages/b:](./VooDooPad/Untitled.vpdoc/pages/b:)
 [bbb78d0a-bdf4-461a-a89e-b0ddef8a4370](bbb78d0a-bdf4-461a-a89e-b0ddef8a4370)
 [bbb78d0a-bdf4-461a-a89e-b0ddef8a4370.plist](bbb78d0a-bdf4-461a-a89e-b0ddef8a4370.plist)
 [be7257be-ec52-46c1-a373-0274ce3cf1bb](be7257be-ec52-46c1-a373-0274ce3cf1bb)
 [be7257be-ec52-46c1-a373-0274ce3cf1bb.plist](be7257be-ec52-46c1-a373-0274ce3cf1bb.plist)
+
 [./VooDooPad/Untitled.vpdoc/pages/c:](./VooDooPad/Untitled.vpdoc/pages/c:)
 [c5af6286-2542-462d-b679-2f979d941e8a](c5af6286-2542-462d-b679-2f979d941e8a)
 [c5af6286-2542-462d-b679-2f979d941e8a.plist](c5af6286-2542-462d-b679-2f979d941e8a.plist)
+
 [./WebsiteStrategy:](./WebsiteStrategy:)
 [Archive](Archive)
 [Meet with Marci.md](Meet with Marci.md)
@@ -275,19 +257,22 @@
 [alison_notes_for_ web_strategy.md](alison_notes_for_ web_strategy.md)
 [web_strategy_and_ongoing_we.md](web_strategy_and_ongoing_we.md)
 [website_strategy-18nov2014_2.md](website_strategy-18nov2014_2.md)
+
 [./WebsiteStrategy/Archive:](./WebsiteStrategy/Archive:)
 [Archive.marked](Archive.marked)
+
 [./createtech:](./createtech:)
 [Untitled.md](Untitled.md)
 [createTech Participation Activities.md](createTech Participation Activities.md)
 [createtech.marked](createtech.marked)
+
 [./createtech pages:](./createtech pages:)
 [ARCHIVE](ARCHIVE)
-[Alan Shulman.docx](Alan Shulman.docx)
-[CT Description Copy](CT Description Copy)
-[Committee](Committee)
-[Conversations](Conversations)
-[CreateTech.marked](CreateTech.marked)
+[Alan Shulman.docx](createtech pages/Alan Shulman.docx)
+[CT Description Copy](createtech pages/CT Description Copy)
+[Committee](createtech pages/Committee)
+[Conversations](createtech pages/Conversations)
+[CreateTech.marked](createtech pages/CreateTech.marked)
 [CreateTechSchemad.sublime-workspace](CreateTechSchemad.sublime-workspace)
 [Email Promotion](Email Promotion)
 [FOLLOWUP CreateTech](FOLLOWUP CreateTech)
@@ -303,12 +288,14 @@
 [Website](Website)
 [blog posts](blog posts)
 [createtech pages.marked](createtech pages.marked)
+
 [./createtech pages/ARCHIVE:](./createtech pages/ARCHIVE:)
 [ARCHIVE.marked](ARCHIVE.marked)
 [CT_Update_15Sept2014.pdf](CT_Update_15Sept2014.pdf)
 [Discount-codes.md](Discount-codes.md)
 [Queries.md](Queries.md)
 [TableTemplate.md](TableTemplate.md)
+
 [./createtech pages/CT Description Copy:](./createtech pages/CT Description Copy:)
 [Archive](Archive)
 [CT Description Copy.marked](CT Description Copy.marked)
@@ -321,6 +308,7 @@
 [createtech positioning.md](createtech positioning.md)
 [createtech-thoughts.md](createtech-thoughts.md)
 [createtechAdCopy.rtf](createtechAdCopy.rtf)
+
 [./createtech pages/CT Description Copy/Archive:](./createtech pages/CT Description Copy/Archive:)
 [Archive.marked](Archive.marked)
 [CreatTechDescription02Sept2014wSpeakers.doc](CreatTechDescription02Sept2014wSpeakers.doc)
@@ -331,11 +319,14 @@
 [CreatTechDescription20Aug2014wSpeakers.rtf](CreatTechDescription20Aug2014wSpeakers.rtf)
 [CreateTechDescription20Aug2014.md](CreateTechDescription20Aug2014.md)
 [creativity_and_the_internet_of_everything-_new_abilities,_new_interfaces,_new_design,_new_behaviors,_new_data..md](creativity_and_the_internet_of_everything-_new_abilities,_new_interfaces,_new_design,_new_behaviors,_new_data..md)
+
 [./createtech pages/Committee:](./createtech pages/Committee:)
 [Committee.marked](Committee.marked)
 [Committee.md](Committee.md)
+
 [./createtech pages/Conversations:](./createtech pages/Conversations:)
 [Conversations.marked](Conversations.marked)
+
 [./createtech pages/Email Promotion:](./createtech pages/Email Promotion:)
 [CTemlimages](CTemlimages)
 [CTemlimages.zip](CTemlimages.zip)
@@ -352,6 +343,7 @@
 [wagon train or Lewis n Clark engraving or jungle explorer w.docx](wagon train or Lewis n Clark engraving or jungle explorer w.docx)
 [wagon train or Lewis n Clark engraving or jungle explorer w.md](wagon train or Lewis n Clark engraving or jungle explorer w.md)
 [wagon train or Lewis n Clark engraving or jungle explorer w.txt](wagon train or Lewis n Clark engraving or jungle explorer w.txt)
+
 [./createtech pages/Email Promotion/CTemlimages:](./createtech pages/Email Promotion/CTemlimages:)
 [480px-Explorer_12.jpg](480px-Explorer_12.jpg)
 [614px-Explorer_12.jpg](614px-Explorer_12.jpg)
@@ -375,12 +367,14 @@
 [mirrorimage.jpg](mirrorimage.jpg)
 [thumb-615x768.jpg](thumb-615x768.jpg)
 [unnamed.jpg](unnamed.jpg)
+
 [./createtech pages/Email Promotion/CTemlimages/Paths:](./createtech pages/Email Promotion/CTemlimages/Paths:)
 [LandscapePath1.jpg](LandscapePath1.jpg)
 [LandscapePath2.jpg](LandscapePath2.jpg)
 [LandscapePath3.jpg](LandscapePath3.jpg)
 [LandscapePath4.jpg](LandscapePath4.jpg)
 [Paths.marked](Paths.marked)
+
 [./createtech pages/FOLLOWUP CreateTech:](./createtech pages/FOLLOWUP CreateTech:)
 [CT-highlights.md](CT-highlights.md)
 [CreateTech Thank you email copy.md](CreateTech Thank you email copy.md)
@@ -392,6 +386,7 @@
 [EMAILS](EMAILS)
 [d7CreateTech_Embracing_Complexity_cf26Nov2014.aka2.docx](d7CreateTech_Embracing_Complexity_cf26Nov2014.aka2.docx)
 [final](final)
+
 [./createtech pages/FOLLOWUP CreateTech/EMAILS:](./createtech pages/FOLLOWUP CreateTech/EMAILS:)
 [ 2-2.pdf]( 2-2.pdf)
 [ 2-3.pdf]( 2-3.pdf)
@@ -433,17 +428,22 @@
 [-7.pdf](-7.pdf)
 [-8.pdf](-8.pdf)
 [-9.pdf](-9.pdf)
+
 [./createtech pages/FOLLOWUP CreateTech/final:](./createtech pages/FOLLOWUP CreateTech/final:)
 [d7CreateTech_Embracing_Complexity_cf.aka1126.docx](d7CreateTech_Embracing_Complexity_cf.aka1126.docx)
+
 [./createtech pages/Ideas notes:](./createtech pages/Ideas notes:)
 [Ideas notes.marked](Ideas notes.marked)
 [createtech-notes-sept.md](createtech-notes-sept.md)
+
 [./createtech pages/Links:](./createtech pages/Links:)
 [Links.md](Links.md)
+
 [./createtech pages/Schedule:](./createtech pages/Schedule:)
 [CreateTechScheduleforWebsite](CreateTechScheduleforWebsite)
 [Schedule.marked](Schedule.marked)
 [featured_speakers.md](featured_speakers.md)
+
 [./createtech pages/Sessions:](./createtech pages/Sessions:)
 [ATTManMade.md](ATTManMade.md)
 [AlanSchulman.md](AlanSchulman.md)
@@ -479,6 +479,7 @@
 [monotype.md](monotype.md)
 [rudina_-_update.md](rudina_-_update.md)
 [sessions-themes-ideas.md](sessions-themes-ideas.md)
+
 [./createtech pages/Sessions/Sessions Page:](./createtech pages/Sessions/Sessions Page:)
 [AT&T ManMadeMusic Obscura Digital.md](AT&T ManMadeMusic Obscura Digital.md)
 [Beyond Wearables.md](Beyond Wearables.md)
@@ -493,11 +494,13 @@
 [Mike Digiovani.md](Mike Digiovani.md)
 [Mindshare and MapMyFitness.md](Mindshare and MapMyFitness.md)
 [SMontiero-EvolutionofCreativeTechnologist.markdown](SMontiero-EvolutionofCreativeTechnologist.markdown)
+
 [./createtech pages/Showflow - Venue -  Logistics:](./createtech pages/Showflow - Venue -  Logistics:)
 [CT-Introductions as of 5pm 11Nov.md](CT-Introductions as of 5pm 11Nov.md)
 [CreateTechAV.md](CreateTechAV.md)
 [Interview questions.md](Interview questions.md)
 [Venue Logistics.marked](Venue Logistics.marked)
+
 [./createtech pages/Speakers:](./createtech pages/Speakers:)
 [BenMalbon.md](BenMalbon.md)
 [BenMalbon.rtf](BenMalbon.rtf)
@@ -522,8 +525,10 @@
 [Speakers.marked](Speakers.marked)
 [SpeakersList.md](SpeakersList.md)
 [Spongecell.webloc](Spongecell.webloc)
+
 [./createtech pages/Sponsors:](./createtech pages/Sponsors:)
 [Sponsors.marked](Sponsors.marked)
+
 [./createtech pages/Updates:](./createtech pages/Updates:)
 [BostonCouncilCall22Sept.md](BostonCouncilCall22Sept.md)
 [CT_Update_04Oct2014.md](CT_Update_04Oct2014.md)
@@ -535,16 +540,20 @@
 [Updates 15Oct.md](Updates 15Oct.md)
 [Updates.marked](Updates.marked)
 [updates.md](updates.md)
+
 [./createtech pages/Website:](./createtech pages/Website:)
 [CreateTech Schema Code.md](CreateTech Schema Code.md)
 [CreateTech Website.md](CreateTech Website.md)
 [Website.marked](Website.marked)
+
 [./createtech pages/blog posts:](./createtech pages/blog posts:)
 [Blog posts.md](Blog posts.md)
 [blog posts.marked](blog posts.marked)
+
 [./imgs:](./imgs:)
 [4As-CreateTech-2014-468x60-1b6wx.gif](4As-CreateTech-2014-468x60-1b6wx.gif)
 [imgs.marked](imgs.marked)
+
 [./meetings:](./meetings:)
 [Data_Programmatic_Panel.md](Data_Programmatic_Panel.md)
 [Drew10Oct2014.md](Drew10Oct2014.md)
@@ -555,6 +564,7 @@
 [media tech summit 2.md](media tech summit 2.md)
 [media tech summit.md](media tech summit.md)
 [meetings.marked](meetings.marked)
+
 [./presos:](./presos:)
 [4A'sTechnology.md](4A'sTechnology.md)
 [SLIDES.md](SLIDES.md)
@@ -564,6 +574,7 @@
 [Techtalk2014-B2BversionSLIDES2.md](Techtalk2014-B2BversionSLIDES2.md)
 [Website Update KC 01 Dec.pdf](Website Update KC 01 Dec.pdf)
 [presos.marked](presos.marked)
+
 [./todo:](./todo:)
 [DecemberTasks.docx](DecemberTasks.docx)
 [DecemberTasks.omniplan](DecemberTasks.omniplan)
@@ -574,13 +585,17 @@
 [TodoSeptember2014.todo.ft..ft](TodoSeptember2014.todo.ft..ft)
 [tasks.md](tasks.md)
 [todo.marked](todo.marked)
+
 [./todo/DecemberTasks.omniplan:](./todo/DecemberTasks.omniplan:)
 [QuickLook](QuickLook)
 [contents.xml](contents.xml)
+
 [./todo/DecemberTasks.omniplan/QuickLook:](./todo/DecemberTasks.omniplan/QuickLook:)
 [Preview.pdf](Preview.pdf)
+
 [./todo/DecemberTasks.oo3:](./todo/DecemberTasks.oo3:)
 [contents.xml](contents.xml)
+
 [./uploads:](./uploads:)
 [documents](documents)
 [images](images)
@@ -589,18 +604,25 @@
 [pdf](pdf)
 [presentations](presentations)
 [uploads.marked](uploads.marked)
+
 [./uploads/documents:](./uploads/documents:)
 [documents.marked](documents.marked)
+
 [./uploads/images:](./uploads/images:)
 [images.marked](images.marked)
+
 [./uploads/movies:](./uploads/movies:)
 [movies.marked](movies.marked)
+
 [./uploads/music:](./uploads/music:)
 [music.marked](music.marked)
+
 [./uploads/pdf:](./uploads/pdf:)
 [pdf.marked](pdf.marked)
+
 [./uploads/presentations:](./uploads/presentations:)
 [presentations.marked](presentations.marked)
+
 [./wearables:](./wearables:)
 [future-of-wearable-tech-140108140946-phpapp02.rtf](future-of-wearable-tech-140108140946-phpapp02.rtf)
 [wearables.marked](wearables.marked)
