@@ -20,7 +20,7 @@
 
 * [Taxonomy Project](pages/WebsiteStrategy/TaxonomyNotes-Running.md)
 * [Website Strategy meeting Notes](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
-* [StrategyPresentatation Nov 20](pages/WebsiteStrategy/Website_Strategy_20Nov2014.md)
+* [StrategyPresentation Nov 20](pages/WebsiteStrategy/Website_Strategy_20Nov2014.md)
 
 
 [UPDATES]()
